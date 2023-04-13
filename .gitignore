@@ -1,1 +1,5 @@
 .idea
+
+# Build results
+[Dd]ebug/
+[Oo]bj/
